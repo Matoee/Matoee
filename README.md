@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Matoee, I’m 23 y/o
 - 👀 I’m interested in music, programming and gaming
--🎓Currently im learning to code in Python, C, C++ and just started learning Javascript.
--📚My main source of knowledge has been uni courses, where i've learnt about algorithms, most of what i know about C and C++.
--💻I am also learning Python and JS on my own, as well as doing AWS essential training.
+- 🎓Currently im learning to code in Python, C, C++ and just started learning Javascript.
+- 📚My main source of knowledge has been uni courses, where i've learnt about algorithms, most of what i know about C and C++.
+- 💻I am also learning Python and JS on my own, as well as doing AWS essential training.
